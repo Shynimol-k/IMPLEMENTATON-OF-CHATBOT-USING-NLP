@@ -32,8 +32,8 @@ To run the chatbot, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatbot-nlp-project.git
-   cd chatbot-nlp-project
+   git clone : https://github.com/Shynimol-k/IMPLEMENTATON-OF-CHATBOT-USING-NLP
+   
    ```
 
 2. Install required libraries:
