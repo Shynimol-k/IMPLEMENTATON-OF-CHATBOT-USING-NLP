@@ -1,6 +1,3 @@
-# P4-Implementation-of-ChatBot-by-NLP
-
-<p>This project ios about to implemet the Chat Bot by using NLP.</p>
 
 # **Implementation of Chatbot Using NLP**
 
@@ -10,7 +7,7 @@ This project focuses on developing a chatbot using Natural Language Processing (
 - **Natural Language Processing:** Utilizes NLP techniques to understand and process user input.
 - **Machine Learning Algorithms:** Implements machine learning algorithms for intent recognition, response generation, and continuous learning.
 - **Real-time Interaction:** Offers a responsive, user-friendly interface built using Streamlit.
-- **Support for Multiple Queries:** Can handle queries related to support, location, and even provide simple poetry.
+
 
 ## **Technologies Used**
 - **Python:** Main programming language used for development.
@@ -50,7 +47,7 @@ To run the chatbot, follow these steps:
    ```
 
 ## **Usage**
-- The chatbot can respond to different queries based on pre-defined intents (e.g., support, location, poetry).
+- The chatbot can respond to different queries based on pre-defined intents (e.g., greetings, support, location, poetry,  etc...).
 - Enter your query in the provided text box, and the chatbot will process the input and provide a response.
 
 ## **Future Work**
