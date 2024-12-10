@@ -16,7 +16,7 @@ This project focuses on developing a chatbot using Natural Language Processing (
 - **Python:** Main programming language used for development.
 - **Streamlit:** For building the web-based user interface.
 - **NLTK :** For text preprocessing, including tokenization, lemmatization, and part-of-speech tagging.
-- **Scikit-learn, TensorFlow, PyTorch:** Machine learning libraries for implementing various NLP models.
+- **Scikit-learn :** Machine learning libraries for implementing various NLP models.
 - **JSON:** For defining intents and responses.
 
 ## **System Requirements**
@@ -28,7 +28,7 @@ This project focuses on developing a chatbot using Natural Language Processing (
 ### **Software Requirements**
 - **Operating System:** Windows 10/11, macOS, or Linux.
 - **Programming Language:** Python 3.8 or newer.
-- **Libraries:** Streamlit, NLTK, Scikit-learn, TensorFlow, PyTorch.
+- **Libraries:** Streamlit, NLTK, Scikit-learn, Streamlit
 
 ## **Installation**
 To run the chatbot, follow these steps:
