@@ -1,7 +1,6 @@
 
-# **Implementation of Chatbot Using NLP**
-
-This project focuses on developing a chatbot using Natural Language Processing (NLP) and machine learning algorithms. The chatbot is designed to provide efficient and intelligent responses to user queries in real-time. It aims to improve user experience and can be used in applications like customer support, virtual assistants, and more.
+# **Overview of Implementation of Chatbot Using NLP**
+This project implements a chatbot using Natural Language Processing (NLP) techniques. The chatbot is designed to understand user intents and provide appropriate responses based on predefined patterns and responses. It utilizes the nltk library for natural language processing, scikit-learn for machine learning, and streamlit for creating an interactive web interface.
 
 ## **Features**
 - **Natural Language Processing:** Utilizes NLP techniques to understand and process user input.
@@ -45,6 +44,17 @@ To run the chatbot, follow these steps:
    ```bash
    streamlit run app.py
    ```
+4.  Download NLTK Data
+   ```bash
+   import nltk
+   nltk.download('punkt')
+   ```
+
+## **Features**
+- Understands various user intents such as greetings, farewells, gratitude, and more.
+- Provides relevant responses based on user input.
+- Maintains a conversation history that can be viewed by the user.
+- Built using Python and leverages popular libraries for NLP and machine learning.
 
 ## **Usage**
 - The chatbot can respond to different queries based on pre-defined intents (e.g., greetings, support, location, poetry,  etc...).
@@ -54,6 +64,15 @@ To run the chatbot, follow these steps:
 - Extend the chatbot to handle more complex use cases, such as multi-turn conversations.
 - Implement reinforcement learning to improve responses over time.
 - Integrate external APIs for additional functionality.
+
+## **Usage**
+To run the chatbot application, execute the following command:
+
+streamlit run app.py
+Once the application is running, you can interact with the chatbot through the web interface. Type your message in the input box and press Enter to see the chatbot's response.
+
+## **Conversation History**
+The chatbot saves the conversation history in a CSV file (chat_log.csv). You can view past interactions by selecting the "Conversation History" option in the sidebar.
 
 ## **Contributing**
 Feel free to fork this repository, submit pull requests, or open issues for any improvements or bug fixes. Contributions are welcome!
