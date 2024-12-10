@@ -1,6 +1,6 @@
 [
     {
-        "tag": "greeting",
+        "tag": "greetings",
         "patterns": [
             "Hi",
             "Hello",
@@ -10,12 +10,57 @@
         ],
         "responses": [
             "Hi there",
-            "Hello",
-            "Hey",
+            "Hello!!, how are you doing today?",
+            "Hey, what's up?",
             "I'm fine, thank you",
             "Nothing much"
         ]
     },
+    {
+       "tag": "support",
+       "patterns": [
+           "I need help",
+           "Can you assist me?",
+           "I have a problem",
+           "I need support",
+           "Can you solve my issue?"
+        ],
+        "responses": [
+           "I'm here to help! How can I assist you today?",
+           "Of course! Please describe the issue you're facing.",
+           "Let me know how I can assist you, I'm here to help."
+        ]
+    },
+    {
+       "tag": "location",
+       "patterns": [
+           "Where are you located?",
+           "What is your office address?",
+           "Can you tell me your location?",
+           "Where is your business based?",
+           "Where is your store?"
+       ],
+       "responses": [
+          "I’m an online service, available anytime you need assistance!",
+          "You can reach me online whenever you need help.",
+          "I exist here to help you virtually, anytime and anywhere."
+       ]
+   },
+   {
+      "tag": "poetry",
+      "patterns": [
+          "Can you write a poem?",
+          "Do you know any poems?",
+          "Can you create a poem for me?",
+          "Tell me a poem",
+         "Write a poem about love"
+       ],
+        "responses": [
+           "Sure! Here’s a short poem for you:\n\nRoses are red, violets are blue,\nI’m here to help, whatever you do.",
+           "Here’s a poem for you:\n\nThe stars shine bright above the trees,\nWhispers carried by the breeze.",
+           "Here’s a simple poem:\n\nThe sun sets, the stars awake,\nA peaceful world we gently make."
+    ]
+},
     {
         "tag": "goodbye",
         "patterns": [
