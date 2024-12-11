@@ -65,7 +65,7 @@ To run the chatbot, follow these steps:
 - Implement reinforcement learning to improve responses over time.
 - Integrate external APIs for additional functionality.
 
-## **Usage**
+## **How to run**
 To run the chatbot application, execute the following command:
 
 streamlit run app.py
