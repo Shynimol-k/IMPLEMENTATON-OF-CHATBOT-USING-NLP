@@ -8,6 +8,14 @@ This project implements a chatbot using Natural Language Processing (NLP) techni
 - **Real-time Interaction:** Offers a responsive, user-friendly interface built using Streamlit.
 
 
+## **Snapshots of Result**
+
+![WhatsApp Image 2024-12-11 at 6 16 12 AM (2)](https://github.com/user-attachments/assets/26f73f68-5af5-45c2-bd13-314793396edc)
+![WhatsApp Image 2024-12-11 at 6 16 12 AM](https://github.com/user-attachments/assets/46a05fcc-b9ce-4d7c-9b38-8b42d96eea88)
+![WhatsApp Image 2024-12-11 at 6 16 11 AM (3)](https://github.com/user-attachments/assets/f4a7c123-2484-4a25-8d21-ec3cfa09c27a)
+![WhatsApp Image 2024-12-11 at 6 16 11 AM (1)](https://github.com/user-attachments/assets/b282104a-b067-47cc-897e-039b0e32e8cc)
+
+
 ## **Technologies Used**
 - **Python:** Main programming language used for development.
 - **Streamlit:** For building the web-based user interface.
